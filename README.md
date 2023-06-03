@@ -8,7 +8,7 @@
 * 데이터 다운로드
 
  * 고해상도(1920x1080, 고용량, 12GB)
-  * https://drive.google.com/file/d/1E85kfIxzjPgH9-noNsbmWV_l9Qg_9Lsb/view?usp=share_link 
+   * https://drive.google.com/file/d/1E85kfIxzjPgH9-noNsbmWV_l9Qg_9Lsb/view?usp=share_link 
 
  * 저해상도(320x174, 저용량, 86MB)
   * https://drive.google.com/file/d/1mgJ1NyHsUB4SiDulXa3JGj5HTUkIg1Dy/view?usp=share_link
