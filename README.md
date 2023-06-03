@@ -3,21 +3,21 @@
 * 결과 제출은 여러 번 가능합니다. 더 좋은 결과가 나올 때마다 제출하는 것을 추천합니다. (최다 제출 팀에게 수업 평가 외 별도의 reward가 있을 수 있습니다.)
 
 
-###데이터
+### 데이터
 
-*데이터 다운로드
+* 데이터 다운로드
 
-  *고해상도(1920x1080, 고용량, 12GB)
+  * 고해상도(1920x1080, 고용량, 12GB)
 
   * https://drive.google.com/file/d/1E85kfIxzjPgH9-noNsbmWV_l9Qg_9Lsb/view?usp=share_link 
 
-*저해상도(320x174, 저용량, 86MB)
+* 저해상도(320x174, 저용량, 86MB)
 
   * https://drive.google.com/file/d/1mgJ1NyHsUB4SiDulXa3JGj5HTUkIg1Dy/view?usp=share_link 
 
   * 편의를 위해 제공한 것입니다. 저해상도 데이터를 반드시 사용해야 할 필요는 없습니다.
 
-*데이터 설명
+* 데이터 설명
 
 데이터는 43개의 동일 종류 식물의 뿌리를 약 20분 간격으로 수 일(3일 이상)간 촬영한 이미지 들입니다.
 
