@@ -7,11 +7,11 @@
 
 * 데이터 다운로드
 
- * 고해상도(1920x1080, 고용량, 12GB)
-   * https://drive.google.com/file/d/1E85kfIxzjPgH9-noNsbmWV_l9Qg_9Lsb/view?usp=share_link 
+   * 고해상도(1920x1080, 고용량, 12GB)
+      * https://drive.google.com/file/d/1E85kfIxzjPgH9-noNsbmWV_l9Qg_9Lsb/view?usp=share_link 
 
- * 저해상도(320x174, 저용량, 86MB)
-  * https://drive.google.com/file/d/1mgJ1NyHsUB4SiDulXa3JGj5HTUkIg1Dy/view?usp=share_link
+  * 저해상도(320x174, 저용량, 86MB)
+      * https://drive.google.com/file/d/1mgJ1NyHsUB4SiDulXa3JGj5HTUkIg1Dy/view?usp=share_link
   * 편의를 위해 제공한 것입니다. 저해상도 데이터를 반드시 사용해야 할 필요는 없습니다.
 
 * 데이터 설명
